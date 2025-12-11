@@ -38,6 +38,8 @@ print(df.iloc[2:20,1:5])
 #
 # column_data = df["Class"]
 # # # print(column_data)
+shape_of_dataset = df.shape
+print(shape_of_dataset)
 #
 # b = df.describe()
 # print(b)
